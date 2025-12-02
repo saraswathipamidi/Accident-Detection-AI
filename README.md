@@ -45,6 +45,17 @@ A window will open showing the **sample video with detected vehicles**.
 ## Live Demo GIF
 Coming soon... 🚀
 
+## Project Structure
+Accident-Detection-AI/
+│── vehicle_detection.py        # Main script for vehicle detection
+│── requirements.txt            # Dependencies
+│── sample_video.mp4            # Sample traffic video
+│── demo_output.jpg             # Demo image
+│── README.md                   # Project documentation
+│── models/                     # (Optional) YOLO model files
+│── utils/                      # Helper functions (future expansion)
+
+
 
 
 
