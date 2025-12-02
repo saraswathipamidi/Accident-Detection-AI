@@ -15,8 +15,6 @@ It uses **YOLOv8** and **OpenCV** to detect vehicles in a video stream and can b
 - OpenCV
 - Ultralytics YOLOv8
 - NumPy
-
-## How to Run
 ## How to Run
 
 1. **Clone the repository**:
@@ -40,5 +38,7 @@ python vehicle_detection.py
 ```
 
 A window will open showing the **sample video with detected vehicles**.
+
+
 
 
