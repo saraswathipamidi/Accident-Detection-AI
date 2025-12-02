@@ -42,6 +42,10 @@ A window will open showing the **sample video with detected vehicles**.
 ## Demo Output
 ![Vehicle Detection Demo](demo_output.jpg)
 
+## Live Demo GIF
+Coming soon... 🚀
+
+
 
 
 
